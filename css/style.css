@@ -1,0 +1,136 @@
+/*****************
+ GLOBALES
+ *************** */
+
+.bg-img {
+    background-image: url("../imagenes/bg1.jpg");
+}
+
+nav {
+    background-color: rgba(143, 220, 143, 0);
+    color: rgb(34, 35, 38) !important;
+    border-bottom: 1px solid #601717;
+}
+
+.active {
+    background-color: #3f030337 !important;
+}
+
+a {
+    color: #601717 !important;
+    font-weight: bold;
+}
+
+h4,h5 {
+    font-weight: bold !important;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.anchotexto{
+    width: 70%;
+}
+
+.subtitulo-retos {
+    width: 65%;
+    margin: auto;
+}
+
+.agrandado-titulo:hover {
+    font-size: 35px !important;
+}
+
+.agrandado-titulo:hover h2 {
+    font-size: 35px !important;
+}
+
+.agrandado-titulo:hover .titulo-icon {
+    font-size: 35px !important;
+}
+
+.titulo-retos {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.centrado {
+    margin: 0 auto;
+}
+
+/*****************
+ RETO 2 - 3
+ *************** */
+
+ .reto2  {
+    padding: 5px 15px;
+    font-size: 45px !important;
+    border: 3px solid #9f2727;
+    border-radius: 50%;
+    color: #9f2727 !important;
+    font-weight: bold;
+}
+
+.titulo-icon {
+    color: rgb(26, 26, 156) !important;
+    border: none;
+    padding: 0px 0px;
+    border-radius: none;
+    font-size: 20px !important;
+    margin: 0 auto;
+}
+
+
+.titulo-icon2:before,
+.titulo-icon2:after {
+    content: '\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0';
+    text-decoration: line-through;
+    margin: auto 0.5em;
+    color: #9f2727;
+}
+
+.spandark {
+    font-weight: bold;
+}
+
+/*****************
+ RETO 4
+ *************** */
+
+.banner-reto {
+    background-image: url(../imagenes/bg3.jpg);
+    background-color: #601717;
+    background-blend-mode: color-burn;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.162);
+}
+
+.ancho-texto {
+
+    margin: 0 auto;
+}
+
+/*****************
+ RETO 5
+ *************** */
+.mismo-fondo{
+    background-color: #601717;
+}
+
+
+
+.img-size{
+    height: 100px!important;
+}
+/*****************
+ RETO 10
+ *************** */
+
+ .reto10  {
+   
+    font-size: 75px !important;
+    color: #3e7f8c !important;
+   
+}
